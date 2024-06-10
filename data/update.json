@@ -1,0 +1,110 @@
+[
+    {
+        "img_src": "../img/ai-synthetic.png",
+        "description": "How is AI’s synthetic data enhancing User Experience Research?",
+        "date": "MARCH 29 2024",
+        "category": "CATEGORY: TECHNOLOGY"
+    },
+    {
+        "img_src": "../img/ai-rising.png",
+        "description": "Web3.AI Rising : How new technology can add value to your business",
+        "date": "MARCH 05 2024",
+        "category": ""
+    },
+    {
+        "img_src": "../img/Mach-supply.jpg",
+        "description": "How generative AI helped us create an e-commerce app – with personalised content – in just 2 weeks",
+        "date": "JANUARY 24 2024",
+        "category": "CATEGORY: TECHNOLOGY"
+    },
+    {
+        "img_src": "../img/Finest-flavour.png",
+        "description": "Can you build a foodie app in 3 days using Generative AI? (Spoiler alert: yes!)",
+        "date": "NOVEMBER 29 2023",
+        "category": ""
+    },
+    {
+        "img_src": "../img/egs.png",
+        "description": "ESG: it’s all about the micro and the macro",
+        "date": "OCTOBER 27 2023",
+        "category": ""
+    },
+    {
+        "img_src": "../img/esg2.png",
+        "description": "ESG, Privacy & Security: a podcast",
+        "date": "SEPTEMBER 12 2023",
+        "category": ""
+    },
+    {
+        "img_src": "../img/fixing.png",
+        "description": "Fixing the broken links: rebuilding consumer trust in the supply chain",
+        "date": "SEPTEMBER 06 2023",
+        "category": ""
+    },
+    {
+        "img_src": "../img/responsable.png",
+        "description": "Responsible AI is AI we can trust",
+        "date": "AUGUST 21 2023",
+        "category": ""
+    },
+    {
+        "img_src": "../img/bing-bard.png",
+        "description": "Bing & Bard: the impact of AI search on website design",
+        "date": "AUGUST 17 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/e-commerce.png",
+        "description": "E-commerce Trend #3: Omnichannel trends to know in 2023",
+        "date": "AUGUST 08 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/a-culture.png",
+        "description": "A culture of sustainable packaging – using yogurt as an example",
+        "date": "AUGUST 02 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/3-ways.png",
+        "description": "3 ways repairability will transform the electronics goods industry",
+        "date": "JULY 13 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/celebrating.png",
+        "description": "Celebrating everyday creativity",
+        "date": "JUNE 30 2023",
+        "category": "CATEGORY: CREATIVITY"
+    },
+    {
+        "img_src": "../img/referral.png",
+        "description": "Referral – how to build referral loops and turn your best customers into brand ambassadors",
+        "date": "JUNE 19 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/think-refashion.png",
+        "description": "Think ReFashion not fast fashion",
+        "date": "JUNE 13 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/revenue.png",
+        "description": "Revenue: Understanding your customer lifetime value",
+        "date": "JUNE 05 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/retention.png",
+        "description": "Retention – how to build an effective retention model and minimise churn ",
+        "date": "MAY 22 2023",
+        "category": "CATEGORY: STRATEGY"
+    },
+    {
+        "img_src": "../img/3-steps.png",
+        "description": "3 steps to take your users from WOW to activation",
+        "date": "MAY 08 2023",
+        "category": "CATEGORY: STRATEGY"
+    }
+]

@@ -1,5 +1,5 @@
 
-let workSpace = document.getElementById("work-card-content");
+let workSpace = document.getElementById("work-col-2");
 
 fetch("../data/work.json")
     .then((response) => response.json())
@@ -21,3 +21,8 @@ fetch("../data/work.json")
         });
 
     });
+
+
+
+
+
