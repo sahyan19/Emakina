@@ -1,0 +1,38 @@
+[
+    {
+        "img_src" : "img/work/image1.jpeg",
+        "title": "Linköping municipality",
+        "description": "-- / imagine: shaping futures with exciting vocationnal careers",
+        "divDescription": "CONTENT & MOTION DESIGN / DIGITAL  ADVERTISING"
+    },
+    {
+        "img_src" : "img/work/image2.jpeg",
+        "title": "Wasa",
+        "description": "-- Collaborating with influencers to serve up a crunchier brunch experience",
+        "divDescription": "CONTENT & MOTION DESIGN / DIGITAL  ADVERTISING"
+    },
+    {
+        "img_src" : "img/work/image3.jpeg",
+        "title": "Dina Försäkringar",
+        "description": "-- Boosting brand identity for one of swenden's largest insurers",
+        "divDescription": "CONTENT & MOTION DESIGN / DIGITAL  ADVERTISING  / USER INSIGHTS"
+    },
+    {
+        "img_src" : "img/work/image4.jpeg",
+        "title": "Rentes Genevoises",
+        "description": "-- Protecting tomorow, today",
+        "divDescription": "ANALYTICS / BRANDING & DESIGN / CONTENT & MOTION DESIGN / DIGITAL EXPERIENCE DESIGN (DXD) / MARKETING AUTOMATION / SOCIAL MEDIA MARKETING WEB BUILDING"
+    },
+    {
+        "img_src" : "img/work/image5.jpeg",
+        "title": "Linköping municipality",
+        "description": "-- / imagine: shaping futures with exciting vocationnal careers",
+        "divDescription": "CONTENT & MOTION DESIGN / DIGITAL ADVERTISING"
+    },
+    {
+        "img_src" : "img/work/image6.jpeg",
+        "title": "Linköping municipality",
+        "description": "-- / imagine: shaping futures with exciting vocationnal careers",
+        "divDescription": "CONTENT & MOTION DESIGN / DIGITAL ADVERTISING"
+    }
+]
