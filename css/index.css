@@ -1325,15 +1325,15 @@ select option h2{
 
 #work-card-image-size{
     width: 100%;
-    height: 100%;
+    height: 60%;
     transition: filter 0.3s ease-in-out;
     transform: 0.3s ease;
     overflow: hidden;
 }
 #work-card-image-size:hover{
     filter: brightness(65%);
-    width: 101.5%;
-    height: 101.5%;
+    width: 100%;
+    height: 62%;
     overflow: hidden;
 }
 #work-col-2{
