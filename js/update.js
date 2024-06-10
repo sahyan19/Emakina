@@ -8,7 +8,7 @@ fetch("../data/update.json")
             container.className = "blogpost-col";
             container.innerHTML = `
                                 <div class="blogpost-image">
-                                <img src=${data.img_src} alt="" class="blogpost-image-size">
+                                    <img src=${data.img_src} alt="" class="blogpost-image-size">
                                 </div>
                                 <div class="blogpost-text">${data.description}<br></div>
                                 <div class="blogpost-date">${data.date}</div>

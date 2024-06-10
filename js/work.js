@@ -19,7 +19,6 @@ fetch("../data/work.json")
                                 `;
             workSpace.appendChild(container);
         });
-
     });
 
 
